@@ -20,14 +20,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, world! I'm Yajing (Hazel), and I recently received a Research MSc in Communication Science from the University of Amsterdam. My research focuses on Human–AI Interaction (HAII), AI-Mediated Communication (AI-MC), and Research through Design (RtD).
+Hello, world! I'm Yajing (Hazel), and I recently received a Research MSc in Communication Science from the University of Amsterdam. My research focuses on **Human–AI Interaction (HAII), AI-Mediated Communication (AI-MC), and Research through Design (RtD)**.
 
 Previously, I earned a B.A. (cum laude) in Journalism and Communication and International Relations and Organizations from the School of Journalism and Communication and the Honors College at Shanghai International Studies University.
 
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research examines how emerging media technologies and AI systems shape socio-emotional functioning, user agency, and digital well-being. Using computational methods, experiments, qualitative inquiry, and design-oriented approaches, I investigate the human factors and psychological mechanisms underlying human–AI interaction and translate these insights into **evidence-based design interventions** for more meaningful, ethical, and human-centered AI.
