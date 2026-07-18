@@ -2,17 +2,18 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 
-cv_pdf: #/assets/pdf/Yajing_Wang_CV.pdf   # optional
+cv_pdf: # /assets/pdf/Yajing_Wang_CV.pdf
 email: yajing.wang2@student.uva.nl
 
-# Academic websites
-googlescholar: "https://scholar.google.com/citations?user=oNcxHnMAAAAJ&hl=en"
+# Academic profiles
+googlescholar: https://scholar.google.com/citations?user=oNcxHnMAAAAJ&hl=en
+orcid: https://orcid.org/0009-0005-3577-1029
 
-# Repositories and software development
+# Code
 github: yajingwanghci
 
-# Social media
-bluesky: "hazelwy.bsky.social"
-linkedin: yajing-w-741027211/
+# Social
+linkedin: yajing-w-741027211
+bluesky: hazelwy.bsky.social
 
 rss_icon: false
