@@ -1,0 +1,180 @@
+cv:
+  name: Yajing Wang
+  label: PhD Researcher
+  email: yajingw@hotmail.com
+  location: Oslo, Norway
+  image: ""
+  summary: 
+
+  address:
+    # street: 2712 Broadway St
+    city: Oslo
+    region: Norway
+    #postalCode: CA 94115
+    countryCode: NO 
+
+  sections:
+    Interests:
+      - #name: 
+        icon: fa-solid fa-tag
+        keywords: "HCI, RtD, Human-Centered Data Governance, Human-AI Interaction"
+
+    Education:
+      - institution: BI Norwegian Business School
+        location: Oslo, Norway
+        url: https://www.bi.no/en/research/find-department/department-of-communication-and-culture/
+        area: Empirical Social Science, Human-Centered Data Governance
+        studyType: Ph.D.
+        start_date: 2027
+        end_date: 2030
+
+      - institution: University of Amsterdam
+        location: Amsterdam, NL
+        url: https://www.uva.nl/shared-content/programmas/en/research-masters/communication-science/communication-science-research-msc.html
+        area: Communication Science, Human-AI Interaction
+        studyType: M.Sc. (research)
+        start_date: 2024
+        end_date: 2026
+
+      - institution: Shanghai International Studies University
+        location: Shanghai, CN
+        area: Journalism and Communication, International Relations
+        studyType: B.A.
+        start_date: 2020
+        end_date: 2024
+
+    Publications:
+      - title: "Quantifying intimacy: How datafied parenting practices reconfigure intimacy-making in urban China"
+        authors:
+          - Wang, Y., Qian, J.
+        publisher: Journal of Children and Media
+        releaseDate: 2026
+        url: https://doi.org/10.1080/17482798.2026.2615925
+        # summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+
+      - title: "Talking about Evocative Communication: Emotional Connections with AI-enabled Chatbots."
+        authors:
+          - van der Goot, M.J., Yan, J., Wang, Y., & Zi, Y.
+        publisher: 76th International Communication Association (ICA) Conference
+        releaseDate: 2026
+        # url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
+        #summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+
+    Awards:
+      - title: Thesis Grant
+        authors:
+          - "ASCoR Digital Communication Methods Lab"
+        date: 2026
+        awarder: ASCoR Digital Communication Methods Lab 
+        url: https://digicomlab.github.io/thesisgrant/theses/2026_wang/
+        summary: Thesis grant awarded in recognition of innovation in digital communication methods research (€500). 
+      
+      - title: Amsterdam Merit Scholarship Nomination
+        authors:
+          - "University of Amsterdam"
+        date: 2024
+        awarder: University of Amsterdam
+        summary: Nominated for the Amsterdam Merit Scholarship, a prestigious scholarship awarded to students with exceptional academic achievements and potential.
+
+      - title: Honors Scholarship of Distinguished Graduates 
+        authors:
+          - "Honors College, Shanghai International Studies University"
+        date: 2024
+        awarder: Shanghai International Studies University
+        summary: Scholarship awarded to graduates in recognition of outstanding academic excellence and contributions to the university community (CNY 20,000).
+
+      - title: Honors Academic Fellowship 
+        authors:
+          - "Honors College, Shanghai International Studies University"
+        date: 2024
+        awarder: Shanghai International Studies University
+        summary: Awarded for outstanding academic performance over four consecutive years (2020-2024), recognizing excellence in coursework, research, and university leadership.
+
+      - title: Merit Student 
+        authors:
+          - "Shanghai International Studies University"
+        date: 2023
+        awarder: Shanghai International Studies University
+        summary: Awarded for outstanding academic performance and contribution to the university community.
+
+      - title: International Exchange Scholarship
+        authors:
+          - "Honors College, Shanghai International Studies University"
+        date: 2022
+        awarder: Honors College, Shanghai International Studies University
+        summary: International exchange scholarship awarded at Oxford and Korean Universities (CNY 15,000).
+
+      - title: Second Prize, National Social Research Competition 
+        authors:
+          - "Ministry of Education, Shanghai Municipal Education Commission"
+        date: 2022
+        awarder: Ministry of Education, Shanghai Municipal Education Commission
+        summary: Awarded second prize for an outstanding social research project, which received a municipal grant of CNY 50,000.
+
+      - title: Outstanding Student Leadership 
+        authors:
+          - "Shanghai International Studies University"
+        date: 2022
+        awarder: Shanghai International Studies University
+        summary: Recognized for leadership as Director of the Academic Development Department and contributions to the university community.
+
+    Professional Experience:
+      - company: The Walt Disney Company
+        position: Film Studio Integrated Marketing & Analytics Intern 
+        location: Shanghai, China
+        start_date: 2023
+        end_date: 2024
+
+      - company: Maison Margiela, OTB Group
+        position: Digital Marketing & PR Intern 
+        location: Shanghai, China
+        start_date: 2023
+        end_date: 2023
+
+      - company: Chronus Art Center
+        position: Curation and Public Project Intern (Digital Media Art) 
+        location: Shanghai, China
+        start_date: 2022
+        end_date: 2022
+
+      - company: The Paper
+        position: International Journalist & Fact-checking Researcher 
+        location: Shanghai, China
+        start_date: 2021
+        end_date: 2022
+    
+    Skills:
+      - name: Statistics and Programming
+        #level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "R/Quarto, Python, G*Power, SPSS, Amos, ATLAS.ti, LaTeX, Git"
+
+      - name: Applications
+        #level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Qualtrics, Figma, Google Analytics, Tableau, Adobe Creative Suite"
+
+      - name: Research Practice
+        #level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Open science, Pre-registration, Reproducible pipelines, Research Ethics"
+
+      - name: Languages
+        #level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "English (Fluent), Mandarin (Native)"
+      
+    Academic Service:
+      - name: Ad-hoc Reviewer
+        keywords: "Convergence: The International Journal of Research into New Media Technologies,  International Communication Association (ICA) 76th Conference"
+        
+      - name: Social Media Editor
+        keywords: "Journal of Online Media and Global Communication"
+
+      - name: Department Director
+        keywords: "Academic Development Department, Shanghai International Studies University"
+
+    #References:
+    #  - name: Professor John Doe
+    #    icon: fa-solid fa-laptop
+    #    reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
