@@ -2,9 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Overview of courses taught and teaching experience.
+description: overview of courses taught and teaching experience
 nav: true
-nav_order: 3
+nav_order: 5
 calendar: true
 ---
 
