@@ -5,7 +5,7 @@ title: experiences
 description: past research, industry and public-interest experiences
 years: [2026,2025,2024,2023,2022]
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
