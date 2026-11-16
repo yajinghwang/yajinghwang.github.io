@@ -15,9 +15,13 @@ cv:
 
   sections:
     Interests:
-      - #name: 
+      - name: Research Areas
         icon: fa-solid fa-tag
-        keywords: "HCI, RtD, Human-Centered Data Governance, Human-AI Interaction"
+        keywords: "HCI, Human-Centered Data Governance, Human-AI Interaction"
+
+      - name: Research Methods
+        icon: fa-solid fa-tag
+        keywords: "Experimentation, Survey, Interview, Focus Group, Research through Design(RtD), Prototyping, Participatory Design" 
 
     Education:
       - institution: BI Norwegian Business School
@@ -67,56 +71,56 @@ cv:
         date: 2026
         awarder: ASCoR Digital Communication Methods Lab 
         url: https://digicomlab.github.io/thesisgrant/theses/2026_wang/
-        summary: Thesis grant awarded in recognition of innovation in digital communication methods research (€500). 
+        summary: # Thesis grant awarded in recognition of innovation in digital communication methods research (€500). 
       
       - title: Amsterdam Merit Scholarship Nomination
         authors:
           - "University of Amsterdam"
         date: 2024
         awarder: University of Amsterdam
-        summary: Nominated for the Amsterdam Merit Scholarship, a prestigious scholarship awarded to students with exceptional academic achievements and potential.
+        summary: # Nominated for the Amsterdam Merit Scholarship, a prestigious scholarship awarded to students with exceptional academic achievements and potential.
 
       - title: Honors Scholarship of Distinguished Graduates 
         authors:
           - "Honors College, Shanghai International Studies University"
         date: 2024
         awarder: Shanghai International Studies University
-        summary: Scholarship awarded to graduates in recognition of outstanding academic excellence and contributions to the university community (CNY 20,000).
+        summary: # Scholarship awarded to graduates in recognition of outstanding academic excellence and contributions to the university community (CNY 20,000).
 
       - title: Honors Academic Fellowship 
         authors:
           - "Honors College, Shanghai International Studies University"
         date: 2024
         awarder: Shanghai International Studies University
-        summary: Awarded for outstanding academic performance over four consecutive years (2020-2024), recognizing excellence in coursework, research, and university leadership.
+        summary: # Awarded for outstanding academic performance over four consecutive years (2020-2024), recognizing excellence in coursework, research, and university leadership.
 
       - title: Merit Student 
         authors:
           - "Shanghai International Studies University"
         date: 2023
         awarder: Shanghai International Studies University
-        summary: Awarded for outstanding academic performance and contribution to the university community.
+        summary: # Awarded for outstanding academic performance and contribution to the university community.
 
       - title: International Exchange Scholarship
         authors:
           - "Honors College, Shanghai International Studies University"
         date: 2022
         awarder: Honors College, Shanghai International Studies University
-        summary: International exchange scholarship awarded at Oxford and Korean Universities (CNY 15,000).
+        summary: # International exchange scholarship awarded at Oxford and Korean Universities (CNY 15,000).
 
       - title: Second Prize, National Social Research Competition 
         authors:
           - "Ministry of Education, Shanghai Municipal Education Commission"
         date: 2022
         awarder: Ministry of Education, Shanghai Municipal Education Commission
-        summary: Awarded second prize for an outstanding social research project, which received a municipal grant of CNY 50,000.
+        summary: # Awarded second prize for an outstanding social research project, which received a municipal grant of CNY 50,000.
 
       - title: Outstanding Student Leadership 
         authors:
           - "Shanghai International Studies University"
         date: 2022
         awarder: Shanghai International Studies University
-        summary: Recognized for leadership as Director of the Academic Development Department and contributions to the university community.
+        summary: # Recognized for leadership as Director of the Academic Development Department and contributions to the university community.
 
     Professional Experience:
       - company: The Walt Disney Company
@@ -166,7 +170,7 @@ cv:
       
     Academic Service:
       - name: Ad-hoc Reviewer
-        keywords: "Convergence: The International Journal of Research into New Media Technologies,  International Communication Association (ICA) 76th Conference"
+        keywords: "Convergence: The International Journal of Research into New Media Technologies, International Communication Association (ICA) Conference (2025, 2026)"
         
       - name: Social Media Editor
         keywords: "Journal of Online Media and Global Communication"
