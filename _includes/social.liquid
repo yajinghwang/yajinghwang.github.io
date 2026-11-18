@@ -58,6 +58,8 @@
       <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fa-solid fa-square-rss"></i></a>
     {% when 'scholar_userid' %}
       <a href="https://scholar.google.com/citations?user={{ social[1] }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    {% when 'wos_id' %}
+        <a href="https://www.webofscience.com/wos/author/record/{{ social[1] }}" title="Web of Science"><i class="ai ai-clarivate"></i></a>
     {% when 'scopus_id' %}
       <a href="https://www.scopus.com/authid/detail.uri?authorId={{ social[1] }}" title="Scopus"><i class="ai ai-scopus"></i></a>
     {% when 'semanticscholar_id' %}
